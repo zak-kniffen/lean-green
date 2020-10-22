@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Trello Board Link
 
-(https://trello.com/b/BeeWNAsA/lean-green).
+[Trello Lean-Green](https://trello.com/b/BeeWNAsA/lean-green).
